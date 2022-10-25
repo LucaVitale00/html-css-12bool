@@ -1,0 +1,29 @@
+[class*="col"]{
+  min-height: 50px;
+}
+
+/* MUSHROOM HAT COLOR */
+.black{
+  background-color: #000;
+}
+
+.red{
+  background-color: #b71c1c;
+}
+
+.white{
+  background-color: #fff;
+}
+
+.orange{
+  background-color: #f44336;
+}
+
+/* SKIN COLOR */
+.skin{
+  background-color: #ffe39f;
+}
+
+.shade{
+  background-color: #f1c27d;
+}
